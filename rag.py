@@ -3,13 +3,13 @@ from dotenv import load_dotenv
 from pathlib import Path
 
 from newspaper import Article
-from langchain_core.documents import Document
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain.schema import Document
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_community.chains import ConversationalRetrievalChain
-from langchain_community.memory import ConversationBufferMemory
+from langchain.chains import ConversationalRetrievalChain
+from langchain.memory import ConversationBufferMemory
 load_dotenv()
 
 # ---------------- CONFIG ---------------- #
