@@ -9,8 +9,7 @@ from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationBufferMemory
-
+from langchain_community.memory import ConversationBufferMemory
 load_dotenv()
 
 # ---------------- CONFIG ---------------- #
