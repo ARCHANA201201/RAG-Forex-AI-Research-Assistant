@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-groq
+chromadb
+sentence-transformers
+newspaper3k
+tiktoken
+python-dotenv
+lxml_html_clean
