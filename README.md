@@ -1,10 +1,14 @@
 # 📊 RAG Forex AI Research Assistant
 
-An AI-powered Forex market research assistant that uses **Retrieval-Augmented Generation (RAG)** to analyze forex articles and answer trading-related questions.
+AI-powered Forex research assistant using Retrieval-Augmented Generation (RAG).
 
-The application allows users to upload forex news or article URLs and ask questions about the market. The AI retrieves relevant information from indexed documents and generates intelligent responses.
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-green)](https://rag-forex-ai-research-assistant-201201.streamlit.app/)
 
 ---
+
+## 🚀 Live Demo
+
+👉 https://rag-forex-ai-research-assistant-201201.streamlit.app/
 
 ## 🚀 Features
 
