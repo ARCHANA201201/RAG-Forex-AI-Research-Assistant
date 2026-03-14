@@ -4,7 +4,7 @@ from pathlib import Path
 
 from newspaper import Article
 from langchain_core.documents import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
