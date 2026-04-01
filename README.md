@@ -2,13 +2,7 @@
 
 AI-powered Forex research assistant using Retrieval-Augmented Generation (RAG).
 
-[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-green)](https://rag-forex-ai-research-assistant-201201.streamlit.app/)
-
 ---
-
-## 🚀 Live Demo
-
-👉 https://rag-forex-ai-research-assistant-201201.streamlit.app/
 
 ## 🚀 Features
 
